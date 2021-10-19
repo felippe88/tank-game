@@ -8,21 +8,21 @@ Este jogo foi desenvolvido com intuito de ser jogado em duplas, ou seja, um joga
 se o tanque for atingido pelas balas do adversário descontará 1 das 5 vidas, o primeiro jogador que ficar sem vidas perderá o jogo, abaixo está 
 descrito os controles de cada um dos jogadores:
 
-<h4><b>PLAYER 1</b></h4>
-<p>
-A = Se move para esquerda.
-W = Se move para cima.
-S = Se move para baixo.
-D = Se move para direita.
+<h4><b>PLAYER 1</b></h4><br>
+
+A = Se move para esquerda.<br>
+W = Se move para cima.<br>
+S = Se move para baixo.<br>
+D = Se move para direita.<br>
 
 SPACE = Atira o projetil.
-</p>
 
-<h4><b>PLAYER 2</b></h4>
 
-← = Se move para esquerda.
-↑ = Se move para cima.
-↓ = Se move para baixo.
-→ = Se move para direita.
+<h4><b>PLAYER 2</b></h4><br>
+
+← = Se move para esquerda.<br>
+↑ = Se move para cima.<br>
+↓ = Se move para baixo.<br>
+→ = Se move para direita.<br>
 
 F = Atira o projetil.
