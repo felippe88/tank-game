@@ -26,4 +26,3 @@ SPACE = Atira o projetil.
 
 F = Atira o projetil.
 
-
