@@ -9,13 +9,14 @@ se o tanque for atingido pelas balas do adversário descontará 1 das 5 vidas, o
 descrito os controles de cada um dos jogadores:
 
 <h4><b>PLAYER 1</b></h4>
-
+<p>
 A = Se move para esquerda.
 W = Se move para cima.
 S = Se move para baixo.
 D = Se move para direita.
 
 SPACE = Atira o projetil.
+</p>
 
 <h4><b>PLAYER 2</b></h4>
 
