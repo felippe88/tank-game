@@ -2,7 +2,7 @@ Dependencia utilizada:
 
 - Allegro 4.4.2
 
-Como jogar?
+<b>Como jogar?</b>
 
 Este jogo foi desenvolvido com intuito de ser jogado em duplas, ou seja, um jogador contra outro. Cada jogador começa com um total de 5 vidas, 
 se o tanque for atingido pelas balas do adversário descontará 1 das 5 vidas, o primeiro jogador que ficar sem vidas perderá o jogo, abaixo está 
