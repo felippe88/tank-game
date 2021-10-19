@@ -1,4 +1,4 @@
-Dependencia utilizada:
+<h2><b>Dependencia utilizada:</b></h2>
 
 - Allegro 4.4.2
 
@@ -18,11 +18,11 @@ SPACE = Atira o projetil.
 
 PLATER 2
 
-A = Se move para esquerda.
-W = Se move para cima.
-S = Se move para baixo.
-D = Se move para direita.
+← = Se move para esquerda.
+↑ = Se move para cima.
+↓ = Se move para baixo.
+→ = Se move para direita.
 
-SPACE = Atira o projetil.
+F = Atira o projetil.
 
 
