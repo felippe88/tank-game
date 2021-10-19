@@ -25,4 +25,3 @@ SPACE = Atira o projetil.
 → = Se move para direita.
 
 F = Atira o projetil.
-
