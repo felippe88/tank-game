@@ -17,7 +17,6 @@ D = Se move para direita.<br>
 
 SPACE = Atira o projetil.
 
-
 <h4><b>PLAYER 2</b></h4><br>
 
 ← = Se move para esquerda.<br>
