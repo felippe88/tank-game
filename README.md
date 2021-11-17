@@ -8,6 +8,8 @@ Este jogo foi desenvolvido com intuito de ser jogado em duplas, ou seja, um joga
 se o tanque for atingido pelas balas do adversário descontará 1 das 5 vidas, o primeiro jogador que ficar sem vidas perderá o jogo, abaixo está 
 descrito os controles de cada um dos jogadores:
 
+ESC = Fecha o jogo.
+
 <h4><b>PLAYER 1</b></h4><br>
 
 A = Se move para esquerda.<br>
