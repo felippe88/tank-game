@@ -1,29 +1,29 @@
-<h3><b>Dependencia utilizada:</b></h3>
+<h3><b>Dependency used:</b></h3>
 
 - Allegro 4.4.2
 
-<h3><b>Como jogar?</b></h3>
+<h3><b>How to play?</b></h3>
 
-Este jogo foi desenvolvido com intuito de ser jogado em duplas, ou seja, um jogador contra outro. Cada jogador começa com um total de 5 vidas, 
-se o tanque for atingido pelas balas do adversário descontará 1 das 5 vidas, o primeiro jogador que ficar sem vidas perderá o jogo, abaixo está 
-descrito os controles de cada um dos jogadores:
+This game was developed with the intention of being played in pairs, that is, one player against another. Each player starts with a total of 5 lives,
+If the tank is hit by the opponent's bullets it will deduct 1 of the 5 lives, the first player who runs out of lives will lose the game, below is
+described the controls of each player:
 
-ESC = Fecha o jogo.
+ESC = Closes the game.
 
 <h4><b>PLAYER 1</b></h4><br>
 
-A = Se move para esquerda.<br>
-W = Se move para cima.<br>
-S = Se move para baixo.<br>
-D = Se move para direita.<br>
+A = Moves left.<br>
+W = Moves up.<br>
+S = Moves down.<br>
+D = Moves to the right.<br>
 
-SPACE = Atira o projetil.
+SPACE = Shoots the projectile.
 
 <h4><b>PLAYER 2</b></h4><br>
 
-← = Se move para esquerda.<br>
-↑ = Se move para cima.<br>
-↓ = Se move para baixo.<br>
-→ = Se move para direita.<br>
+← = Moves left.<br>
+↑ = Moves up.<br>
+↓ = Moves down.<br>
+→ = Moves right.<br>
 
-F = Atira o projetil.
+F = Throws the projectile.
